@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DemoGps.app"
-               BlueprintName = "DemoGps"
-               ReferencedContainer = "container:DemoGps.xcodeproj">
+               BuildableName = "solveSudoku.app"
+               BlueprintName = "solveSudoku"
+               ReferencedContainer = "container:solveSudoku.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DemoGpsTests.xctest"
-               BlueprintName = "DemoGpsTests"
-               ReferencedContainer = "container:DemoGps.xcodeproj">
+               BuildableName = "solveSudokuTests.xctest"
+               BlueprintName = "solveSudokuTests"
+               ReferencedContainer = "container:solveSudoku.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DemoGps.app"
-            BlueprintName = "DemoGps"
-            ReferencedContainer = "container:DemoGps.xcodeproj">
+            BuildableName = "solveSudoku.app"
+            BlueprintName = "solveSudoku"
+            ReferencedContainer = "container:solveSudoku.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DemoGps.app"
-            BlueprintName = "DemoGps"
-            ReferencedContainer = "container:DemoGps.xcodeproj">
+            BuildableName = "solveSudoku.app"
+            BlueprintName = "solveSudoku"
+            ReferencedContainer = "container:solveSudoku.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

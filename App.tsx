@@ -1,12 +1,16 @@
-import {Text, View} from 'react-native';
-import {StyleSheet} from 'react-native';
-import React, {useState} from 'react';
-import Demo from './src/Demo';
+import {View} from 'react-native-ui-lib';
+import React from 'react';
+import {GestureHandlerRootView} from 'react-native-gesture-handler';
+import Sudoku from './src/Sudoku';
 
 const App = () => {
-  return <Demo />;
+  return (
+    <GestureHandlerRootView style={{flex: 1}}>
+      <View bg-white flex>
+        <Sudoku />
+      </View>
+    </GestureHandlerRootView>
+  );
 };
 
 export default App;
-
-const styles = StyleSheet.create({});
